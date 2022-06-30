@@ -17,10 +17,7 @@ make lint-docs
 ```
 
 ## Deploying
-
-```bash
-make publish-docs
-```
+Just open a PR on GitHub. Once the PR is approved, a GitHub action workflow will automatically update the docs site. 
 
 ## Analytics
 
