@@ -12,7 +12,7 @@
   "author": "Keith Chong",
   "license": "Apache-2.0",
   "dependencies": {
-    "@types/selenium-webdriver": "^4.0.9",
+    "@types/selenium-webdriver": "^4.1.13",
     "assert": "^2.0.0",
     "chromedriver": "^94.0.0",
     "selenium-webdriver": "^4.0.0-alpha.7"
