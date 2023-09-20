@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@types/superagent": "^4.1.15",
+    "@types/superagent": "^4.1.18",
     "ansi-to-react": "^6.1.6",
     "argo-ui": "git+https://github.com/argoproj/argo-ui.git",
     "buffer": "^6.0.3",
