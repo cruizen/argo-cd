@@ -287,7 +287,7 @@ jobs:
         if: ${{ env.UPDATE_VERSION == 'true' }}
 
       - name: Create PR to update VERSION on master branch
-        uses: peter-evans/create-pull-request@153407881ec5c347639a548ade7d8ad1d6740e38 # v5.0.2
+        uses: peter-evans/create-pull-request@70a41aba780001da0a30141984ae2a0c95d8704e # v6.0.2
         with:
           commit-message: Bump version in master
           title: "chore: Bump version in master"
